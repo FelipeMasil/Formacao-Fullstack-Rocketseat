@@ -23,12 +23,17 @@ Explore os projetos desenvolvidos em aulas, aqui você encontrará
 
 | Projeto | Descrição Breve | Tecnologias Principais | Status | Link do Projeto | Visualização |
 | :------ | :-------------- | :--------------------- | :----- | :-------------- | :----------- |
-| **Página de receita** | Iniciamos com uma página de receitas feita em HTML e CSS | `HTML`, `CSS` | Concluído | [Repositório do Projeto 1](https://github.com/FelipeMasil/pagina_de_receita) | [Link da página](https://felipemasil.github.io/pagina_de_receita/)
-
-
-
+| **Página de receita** | Iniciamos com uma página de receitas feita em HTML e CSS | `HTML`, `CSS` | Concluído | [Cupcake com café](https://github.com/FelipeMasil/pagina_de_receita) | [Link da página](https://felipemasil.github.io/pagina_de_receita/)
 
 ---
+
+## 🪐 Desafios
+
+Aqui se encontram todos os desafios propostos no decorrer do curso.
+
+| Projeto | Descrição Breve | Tecnologias Principais | Status | Link do Projeto | Visualização |
+| :------ | :-------------- | :--------------------- | :----- | :-------------- | :----------- |
+| **Local de Turismo** | Uma página descrevendo as belezas de Busan na Coréia do Sul | `HTML`, `CSS` | Concluído | [Turismo em Busan](https://github.com/FelipeMasil/fullstack-nivel01-desafio01) | [Link da página](https://felipemasil.github.io/fullstack-nivel01-desafio01/)
 
 ## 💡 Minha Filosofia de Desenvolvimento
 
